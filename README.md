@@ -2,12 +2,14 @@
 
 This project aims at creating a Digital Twins set (DT set) which can be used for various purpose such as: listing existing DTs, testing, research validation, and so on.
 
-## Features
+## Dependencies
 
-A list of features here:
+In order to work properly, this program requires the following Python modules:
 
-- Feature 1
-- Feature 2
+- requests
+- pandas
+- matplotlib
+- seaborn
 
 ## Contributing
 
